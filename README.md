@@ -1,6 +1,6 @@
 # Yunus Emre Arı
 
-Bilgisayar mühendisiyim. Ağırlıklı olarak Java ve Spring Boot ile backend geliştirmeye odaklanıyorum. Veriyi doğru tutmak, aynı isteğin tekrar gelmesini yönetmek ve sistemin hata durumlarında ne yaptığını anlamak özellikle ilgimi çekiyor.
+Bilgisayar mühendisiyim. Ağırlıklı olarak Java ve Spring Boot ile backend geliştirmeye odaklanıyorum. Veriyi doğru şekilde işleme, isteklerin işleyişini yönetmek ve sistemin hata durumlarında ne yaptığını tespit edip testlerle güvenilir büyütülebilir yazılım geliştirme, çeşitli projelerde hangi dizayn patternlerinin avantajlı olduğunu belirleyip uygun şekilde geliştirmeyi hedefliyorum.
 
 TRT stajımda içerik ve quiz platformu geliştirdim. Bunun yanında YOLO/VisDrone ile bilgisayarlı görü ve farklı veri setleriyle modelleme çalışmaları yaptım.
 
